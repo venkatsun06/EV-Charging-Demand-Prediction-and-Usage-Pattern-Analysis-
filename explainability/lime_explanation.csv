@@ -1,0 +1,11 @@
+Feature,Contribution
+categorical__ChargerCompany_0 <= 0.00,0.18643720960274207
+categorical__Location_market <= 0.00,0.149437476254304
+categorical__Location_sightseeing <= 0.00,0.08229670015936895
+categorical__Location_camping <= 0.00,-0.07681354252093854
+categorical__Location_accommodation <= 0.00,-0.07583740228241131
+0.27 < numerical__Hour <= 0.86,0.05940120558811335
+categorical__Location_hotel <= 0.00,0.05637370392140315
+categorical__Location_public area <= 0.00,0.04629976276889725
+categorical__Location_public parking lot <= 0.00,0.04099630651297712
+-0.20 < numerical__Month <= 0.38,-0.0307185020455106
